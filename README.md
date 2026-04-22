@@ -5,7 +5,7 @@ Repository for my CS230 class The Gaming Room Java project.
 The Gaming Room wanted to develop a web-based game that serves multiple platforms based on their current game, Draw It or Lose It, which draws a picture on the screen while teams guess the picture. They wanted to expand the platforms that the game was available on and ready it to sclae for multiple players for the future.
 
 # What did you do particularly well in developing this documentation?
-I thought I did very well on the software design document, and it's many different part. 
+I thought I did very well on the software design document, and it's many different parts. 
 
 # What about the process of working through a design document did you find helpful when developing the code?
 Working through the design document helped with the code by providing a good overview of what needed to be done. this made it wasier to visualize the outcome, and complete it.
